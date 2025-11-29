@@ -10,4 +10,3 @@ Algorithm which connects unity project and almost any TikTok livestream using Ti
 
 Built using library: https://github.com/frankvHoof93/TikTokLiveSharp - for API connection
 - Scripted in C# in Visual Studio
-
