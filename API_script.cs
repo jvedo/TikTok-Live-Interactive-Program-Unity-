@@ -1,6 +1,6 @@
 //Script used in one of the programs
 //I removed unecessary/unimportant information to focus on the core function
-//At the moment this is simply the script I created to connect tiktok livestreams to unity programs and spawn gameobjects depending on likes/comments and gifts in this instance
+//At the moment this is simply the script I created to connect tiktok livestreams to unity programs and spawn gameobjects depending on likes/comments and gifts
 
 using TikTokLiveSharp.Client;
 using System;
