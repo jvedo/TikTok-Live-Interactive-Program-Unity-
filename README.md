@@ -1,4 +1,4 @@
-# TikTok-Live-Interactive-Program-Unity-
+# TikTok-Live-Interactive-Program-Unity
 ### Interactive Livestream Program - Unity
 
 Algorithm which connects unity project and almost any TikTok livestream using TikTok's API. The unity project reacts to livestream interactions in real time such as: 
