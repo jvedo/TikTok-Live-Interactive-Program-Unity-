@@ -9,5 +9,5 @@ Algorithm which connects unity project and almost any TikTok livestream using Ti
 - Donations/Gifts
 
 Built using library: https://github.com/frankvHoof93/TikTokLiveSharp - for API connection
-Scripted in C# in Visual Studio
+- Scripted in C# in Visual Studio
 
