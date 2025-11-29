@@ -1,2 +1,13 @@
 # TikTok-Live-Interactive-Program-Unity-
-Algorithm which connects unity program and a TikTok livestream. Unity project reacts to livestream interactions such as likes, comments, donations/gifts and follows. Built for my specific unity game.
+### Interactive Livestream Program - Unity
+
+Algorithm which connects unity project and almost any TikTok livestream using TikTok's API. The unity project reacts to livestream interactions in real time such as: 
+
+- Likes
+- Comments
+- Follows
+- Donations/Gifts
+
+Built using library: https://github.com/frankvHoof93/TikTokLiveSharp - for API connection
+Scripted in C# in Visual Studio
+
