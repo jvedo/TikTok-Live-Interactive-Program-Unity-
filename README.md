@@ -8,9 +8,9 @@ Algorithm which connects unity project and almost any TikTok livestream using Ti
 - Follows
 - Donations/Gifts
 
-**Image examples**
-![Unity livestream interaction](ttlivegame.png)
 *Screenshot of unity program interacting with livestream. Users have incentive to engage with the livestream (liking, following) as they will appear on the program and in this particular instance, avoid obstacles to become the 'king'*
+![Unity livestream interaction](ttlivegame.png)
+
 
 Built using library: https://github.com/frankvHoof93/TikTokLiveSharp - for API connection
 - Scripted in C# in Visual Studio
